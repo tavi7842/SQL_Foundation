@@ -1,0 +1,2 @@
+
+insert into employee values(12,"Ram",40000,"Testing","Tanuku","01-02-2023"),(13,"Ravi",35000,"Dev","Tenali","01-04-2022"),(14,"Ramesh",30000,"Dev","Tenali","01-05-2022"),(15,"Ranjit",30000,"Dev","vizag","01-06-2022"),(16,"Vani",35000,"Dev","chebrole","01-07-2022"),(17,"Chandra",35000,"QA","Lalpuram","01-09-2022"),(18,"Sai",35000,"QA","Mangalgiri","01-08-2022"),(19,"Sanju",35000,"Dev","coorg","01-09-2022"),(20,"Akhil",35000,"QA","kerala","01-010-2022"),(21,"Vishwadeep",35000,"Dev","Warangal","01-09-2022");

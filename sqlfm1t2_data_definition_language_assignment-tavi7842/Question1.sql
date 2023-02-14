@@ -1,0 +1,1 @@
+CREATE TABLE Employee (emp_id int PRIMARY KEY,emp_name varchar(20),emp_dept varchar(20),emp_phoneno varchar(20),emp_address varchar(20));
